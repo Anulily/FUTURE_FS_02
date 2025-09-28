@@ -5,6 +5,7 @@ An elegant and responsive E-commerce web application built with React.js, featur
 Perfect for learning and showcasing React, Hooks, Context API, and modern UI design.
 
 🚀 Features
+<br>
 ✅ Responsive Design – Works on desktop, tablet, and mobile
 <br>
 ✅ Product Listings – Dynamic product rendering with search & filters
@@ -21,8 +22,11 @@ Perfect for learning and showcasing React, Hooks, Context API, and modern UI des
 <br>
 
 🛠️ Tech Stack
+<br>
 Frontend: React.js, React Router, Context API, Hooks,HTML, CSS
+<br>
 Styling: Tailwind CSS / Styled Components (or CSS Modules)
+<br>
 Backend: Node.js
 
 Screenshots:
