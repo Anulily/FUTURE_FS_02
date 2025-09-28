@@ -6,12 +6,19 @@ Perfect for learning and showcasing React, Hooks, Context API, and modern UI des
 
 🚀 Features
 ✅ Responsive Design – Works on desktop, tablet, and mobile
+<br>
 ✅ Product Listings – Dynamic product rendering with search & filters
+<br>
 ✅ Shopping Cart – Add, remove, and update quantities
+<br>
 ✅ Checkout Flow – Simple checkout with order summary
+<br>
 ✅ State Management – Context API for global state handling
+<br>
 ✅ Reusable Components – Clean and modular code structure
+<br>
 ✅ Animations – Smooth UI transitions for better UX
+<br>
 
 🛠️ Tech Stack
 Frontend: React.js, React Router, Context API, Hooks,HTML, CSS
